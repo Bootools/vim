@@ -9,3 +9,4 @@ filetype indent on
 " Appearance configuration
 syntax on 
 set relativenumber
+set number
